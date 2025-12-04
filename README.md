@@ -13,7 +13,7 @@ Description
 <table>
   <tr>
     <td style="vertical-align: top;">
-      <img src="./imagens/img1.png" width="25%">
+      <img src="user.jpg" width="25%">
     </td>
     <td style="vertical-align: top;">
       <h3>Título da Imagem 1</h3>
