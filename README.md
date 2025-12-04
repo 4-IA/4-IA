@@ -45,7 +45,7 @@ Last updated 12/04/2025
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">nft telegram python bot $100</h3>
-      <p>Create NFTs and distribute them to your Telegram users, without needing any knowledge of smart contracts</p>
+      <p>Create NFT to your Telegram group</p>
     </td>
   </tr>
 </table>
