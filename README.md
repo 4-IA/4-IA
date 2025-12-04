@@ -13,7 +13,7 @@ Description
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 1px; white-space: nowrap;">
-      <img src="user.jpg" style="max-width: 10px; width: 25%; height: auto; display: block;">
+      <img src="user.jpg" style="width: 25%; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Título da Imagem 1</h3>
