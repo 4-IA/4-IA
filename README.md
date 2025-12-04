@@ -10,9 +10,8 @@ Last updated 12/04/2025
 
 ---
 
-<!-- ITEM TEMPLATE AJUSTADO -->
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="user.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
@@ -25,8 +24,8 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="ia.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
@@ -39,8 +38,8 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="nft.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
@@ -53,8 +52,8 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="payment.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
@@ -67,8 +66,8 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="distribution.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
@@ -81,8 +80,8 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="orderbook.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
@@ -95,8 +94,8 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="transaction.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
@@ -109,8 +108,8 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="exchange.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
@@ -123,8 +122,8 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="airdrop.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
@@ -137,8 +136,8 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="tip.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
@@ -151,8 +150,8 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="dao.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
@@ -165,8 +164,8 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="gateway.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
@@ -179,8 +178,8 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="swap.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
@@ -193,8 +192,8 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
+<table style="width: 100%; border-collapse: collapse; height:150px;">
+  <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="amm.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
     </td>
