@@ -10,14 +10,14 @@ Description
 
 ---
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="vertical-align: top; width: 25%;">
-      <img src="user.jpg" width="25%">
+    <td style="vertical-align: top; width: 1px; white-space: nowrap;">
+      <img src="user.jpg" style="max-width: 120px; width: 100%; height: auto; display: block;">
     </td>
-    <td style="vertical-align: top;">
-      <h3>Título da Imagem 1</h3>
-      <p>Descrição detalhada da imagem 1.</p>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Título da Imagem 1</h3>
+      <p>Descrição detalhada da imagem 1. Agora o texto tem espaço adequado para fluir ao lado da imagem sem ser espremido.</p>
     </td>
   </tr>
 </table>
