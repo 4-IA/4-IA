@@ -17,7 +17,7 @@ Last updated 12/04/2025
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">user telegram bot $50</h3>
-      <p>Download list of users from Telegram group</p>
+      <p>Download list of users</p>
     </td>
   </tr>
 </table>
