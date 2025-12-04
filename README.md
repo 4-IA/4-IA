@@ -28,7 +28,7 @@ Last updated 12/04/2025
   <tr style="height: 100%;">
     <td style="vertical-align: middle; width: 136px; padding: 20px 0; text-align: center; height: 100%;">
       <div style="height: 100%; display: flex; align-items: center; justify-content: center;">
-        <img src="user.jpg" style="max-width: 100%; max-height: 80%; object-fit: contain;">
+        <img src="user.jpg" style="width: 136px; height: 122px; object-fit: contain;">
       </div>
     </td>
     <td style="vertical-align: middle; padding: 20px; height: 100%;">
