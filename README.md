@@ -1,18 +1,18 @@
-# Título do Projeto
+# Ttle
 
-Descrição geral do projeto. Explique objetivo, funcionalidades e contexto.
-
----
-
-## Galeria de Imagens
-
-A seguir está a lista das 14 imagens, cada uma com título e descrição.
+Description
 
 ---
 
-### Imagem 1 — Título da Imagem 1
+## Product Catalog
+
+Description
+
+---
+
+### user — $100
 Descrição da imagem 1.  
-![Imagem 1](./imagens/img1.png)
+![Imagem 1](user.jpg)
 
 ---
 
