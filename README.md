@@ -31,7 +31,7 @@ Last updated 12/04/2025
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">ia telegram python bot $75</h3>
-      <p>Use artificial intelligence on Telegram group</p>
+      <p>Use artificial intelligence</p>
     </td>
   </tr>
 </table>
@@ -45,7 +45,7 @@ Last updated 12/04/2025
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">nft telegram bot $100</h3>
-      <p>Create NFT to your Telegram group</p>
+      <p>Create NFT</p>
     </td>
   </tr>
 </table>
