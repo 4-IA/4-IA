@@ -10,16 +10,16 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; height: 250px; border-collapse: collapse; table-layout: fixed;">
+<table style="width: 100%; height: 250px;">
   <tr style="width: 100%;height: 250px;">
-    <td style="width: 100%; height: 250px; padding: 0; vertical-align: middle; text-align: center; overflow: hidden;">
+    <td style="width: 100%; height: 250px;">
       <div style="width: 136px; height: 122px;">
         <img src="user.jpg" style="width: 136px; height: 122px;">
       </div>
     </td>
-    <td style="height: 250px; padding-left: 15px; vertical-align: top; overflow: hidden;">
-      <div style="height: 250px; overflow-y: auto; padding-right: 5px;">
-        <h3 style="margin-top: 0;">user telegram python bot $50</h3>
+    <td style="height: 250px; padding-left: 15px;">
+      <div style="height: 250px;">
+        <h3>user telegram python bot $50</h3>
         <p>Download the list of public users from any Telegram group</p>
       </div>
     </td>
