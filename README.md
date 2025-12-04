@@ -171,7 +171,7 @@ Last updated 12/04/2025
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">gateway telegram python bot $350</h3>
-      <p>Description</p>
+      <p>Allow users in your Telegram group to trade the same asset on different waves forks</p>
     </td>
   </tr>
 </table>
@@ -185,7 +185,7 @@ Last updated 12/04/2025
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">swap telegram python bot $375</h3>
-      <p>Description</p>
+      <p>Allow users in your Telegram group to trade tokens from all waves forks</p>
     </td>
   </tr>
 </table>
@@ -199,7 +199,7 @@ Last updated 12/04/2025
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">amm telegram python bot $400</h3>
-      <p>Description</p>
+      <p>Allow users in your Telegram group to add their own token to the AMM</p>
     </td>
   </tr>
 </table>
