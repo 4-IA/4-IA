@@ -16,7 +16,7 @@ Last updated 12/04/2025
       <img src="user.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">user telegram python bot $50</h3>
+      <h3 style="margin-top: 0;">user telegram bot $50</h3>
       <p>Download list of users from Telegram group</p>
     </td>
   </tr>
