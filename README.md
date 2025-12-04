@@ -12,18 +12,16 @@ Description
 
 <table>
   <tr>
-    <!-- COLUNA ESQUERDA — IMAGEM (estreita) -->
-    <td style="width: 20%; vertical-align: top;">
-      <img src="user.jpg" width="100%">
+    <td style="vertical-align: top;">
+      <img src="./imagens/img1.png" width="25%">
     </td>
-
-    <!-- COLUNA DIREITA — TEXTO (larga) -->
-    <td style="width: 80%; vertical-align: top;">
+    <td style="vertical-align: top;">
       <h3>Título da Imagem 1</h3>
-      <p>Descrição da imagem 1. Texto de exemplo.</p>
+      <p>Descrição detalhada da imagem 1.</p>
     </td>
   </tr>
 </table>
+
 
 
 
