@@ -6,7 +6,7 @@ Building the future
 
 ## Product Catalog
 
-Building the future
+Last updated 12/04/2025
 
 ---
 
@@ -31,7 +31,7 @@ Building the future
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">ia telegram python bot $75</h3>
-      <p>Description</p>
+      <p>Use an artificial intelligence assistant directly in your Telegram group to interact with users</p>
     </td>
   </tr>
 </table>
@@ -45,7 +45,7 @@ Building the future
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">nft telegram python bot $100</h3>
-      <p>Description</p>
+      <p>Create NFTs and distribute them to your Telegram users using only Python code, without needing any knowledge of smart contracts</p>
     </td>
   </tr>
 </table>
@@ -59,7 +59,7 @@ Building the future
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">payment telegram python bot $125</h3>
-      <p>Description</p>
+      <p>Offer products and automatically receive payments from users in your Telegram group</p>
     </td>
   </tr>
 </table>
@@ -73,7 +73,7 @@ Building the future
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">distribution telegram python bot $150</h3>
-      <p>Description</p>
+      <p>Find out how your tokens are distributed among users directly in your Telegram group, everyone can see</p>
     </td>
   </tr>
 </table>
@@ -87,7 +87,7 @@ Building the future
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">orderbook telegram python bot $175</h3>
-      <p>Description</p>
+      <p>See the top 5 open buy/sell orders for your token directly in your Telegram group, everyone can see</p>
     </td>
   </tr>
 </table>
@@ -101,7 +101,7 @@ Building the future
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">transaction telegram python bot $200</h3>
-      <p>Description</p>
+      <p>View all your token transfers in real time in your Telegram group, everyone can see</p>
     </td>
   </tr>
 </table>
@@ -115,7 +115,7 @@ Building the future
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">exchange telegram python bot $225</h3>
-      <p>Description</p>
+      <p>View all your token exchange in real time in your Telegram group, everyone can see</p>
     </td>
   </tr>
 </table>
@@ -129,7 +129,7 @@ Building the future
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">aidrop telegram python bot $250</h3>
-      <p>Description</p>
+      <p>Distribute your token to the users in your Telegram group daily</p>
     </td>
   </tr>
 </table>
@@ -143,7 +143,7 @@ Building the future
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">tip telegram python bot $275</h3>
-      <p>Description</p>
+      <p>Allow users in your Telegram group to donate tokens to each other</p>
     </td>
   </tr>
 </table>
@@ -157,21 +157,7 @@ Building the future
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">dao telegram python bot $300</h3>
-      <p>Description</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="exchange.jpg" style="width: 120px; height: auto; display: block;">
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">exchange telegram python bot $325</h3>
-      <p>Description</p>
+      <p>Create polls in your Telegram group and allow users to vote by paying with their token for each vote</p>
     </td>
   </tr>
 </table>
