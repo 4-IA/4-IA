@@ -44,7 +44,7 @@ Last updated 12/04/2025
       <img src="nft.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">nft telegram python bot $100</h3>
+      <h3 style="margin-top: 0;">nft telegram bot $100</h3>
       <p>Create NFT to your Telegram group</p>
     </td>
   </tr>
