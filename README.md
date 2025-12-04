@@ -14,7 +14,7 @@ Last updated 12/04/2025
   <tr style="height: 250px;">
     <td style="width: 136px; height: 250px; padding: 0; vertical-align: middle; text-align: center; overflow: hidden;">
       <div style="width: 136px; height: 250px; display: flex; align-items: center; justify-content: center;">
-        <img src="user.jpg" style="max-width: 100%; max-height: 100%;">
+        <img src="user.jpg" style="width: 136px; height: 250px;">
       </div>
     </td>
     <td style="height: 250px; padding-left: 15px; vertical-align: top; overflow: hidden;">
