@@ -17,7 +17,7 @@ Building the future
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">user telegram python bot $50</h3>
-      <p>Description</p>
+      <p>Download the list of public users from any Telegram group</p>
     </td>
   </tr>
 </table>
