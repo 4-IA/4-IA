@@ -167,7 +167,7 @@ Description
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="gateway.jpg" style="width: 120px; height: auto; display: block;">
+      <img src="exchange.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">exchange telegram python bot $325</h3>
@@ -181,7 +181,7 @@ Description
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="swap.jpg" style="width: 120px; height: auto; display: block;">
+      <img src="gateway.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">gateway telegram python bot $350</h3>
@@ -195,7 +195,7 @@ Description
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="amm.jpg" style="width: 120px; height: auto; display: block;">
+      <img src="swap.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">swap telegram python bot $375</h3>
