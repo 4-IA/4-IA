@@ -30,7 +30,7 @@ Description
       <img src="ia.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Title</h3>
+      <h3 style="margin-top: 0;">ia telegram python bot $100</h3>
       <p>Description</p>
     </td>
   </tr>
@@ -44,7 +44,7 @@ Description
       <img src="nft.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Title</h3>
+      <h3 style="margin-top: 0;">nft telegram python bot $100</h3>
       <p>Description</p>
     </td>
   </tr>
@@ -58,7 +58,7 @@ Description
       <img src="payment.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Title</h3>
+      <h3 style="margin-top: 0;">payment telegram python bot $150</h3>
       <p>Description</p>
     </td>
   </tr>
@@ -72,7 +72,7 @@ Description
       <img src="distribution.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Title</h3>
+      <h3 style="margin-top: 0;">distribution telegram python bot $200</h3>
       <p>Description</p>
     </td>
   </tr>
@@ -86,7 +86,7 @@ Description
       <img src="orderbook.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Title</h3>
+      <h3 style="margin-top: 0;">orderbook telegram python bot $200</h3>
       <p>Description</p>
     </td>
   </tr>
@@ -100,7 +100,7 @@ Description
       <img src="transaction.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Title</h3>
+      <h3 style="margin-top: 0;">transaction telegram python bot $200</h3>
       <p>Description</p>
     </td>
   </tr>
@@ -114,7 +114,7 @@ Description
       <img src="exchange.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Title</h3>
+      <h3 style="margin-top: 0;">exchange telegram python bot $200</h3>
       <p>Description</p>
     </td>
   </tr>
