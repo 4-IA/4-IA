@@ -13,7 +13,7 @@ Last updated 12/04/2025
 <table style="width: 100%; height: 250px; border-collapse: collapse; table-layout: fixed;">
   <tr style="height: 250px;">
     <td style="width: 136px; height: 250px; padding: 0; vertical-align: middle; text-align: center; overflow: hidden;">
-      <div style="width: 136px; height: 250px; display: flex; align-items: center; justify-content: center;">
+      <div style="width: 136px; height: 122px; display: flex; align-items: center; justify-content: center;">
         <img src="user.jpg" style="width: 136px; height: 250px;">
       </div>
     </td>
