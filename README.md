@@ -31,7 +31,7 @@ Last updated 12/04/2025
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">ia telegram python bot $75</h3>
-      <p>Use an artificial intelligence assistant directly in your Telegram group to interact with users</p>
+      <p>Use artificial intelligence on Telegram group</p>
     </td>
   </tr>
 </table>
