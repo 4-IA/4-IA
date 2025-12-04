@@ -10,14 +10,18 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; height:250px;">
-  <tr style="height:250px;">
-    <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
-      <img src="user.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
+<table style="width: 100%; height: 250px; border-collapse: collapse; table-layout: fixed;">
+  <tr style="height: 250px;">
+    <td style="width: 136px; height: 250px; padding: 0; vertical-align: middle; text-align: center; overflow: hidden;">
+      <div style="width: 136px; height: 250px; display: flex; align-items: center; justify-content: center;">
+        <img src="user.jpg" style="max-width: 100%; max-height: 100%;">
+      </div>
     </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">user telegram python bot $50</h3>
-      <p>Download the list of public users from any Telegram group</p>
+    <td style="height: 250px; padding-left: 15px; vertical-align: top; overflow: hidden;">
+      <div style="height: 250px; overflow-y: auto; padding-right: 5px;">
+        <h3 style="margin-top: 0;">user telegram python bot $50</h3>
+        <p>Download the list of public users from any Telegram group</p>
+      </div>
     </td>
   </tr>
 </table>
