@@ -4,7 +4,7 @@ Building the future
 
 ---
 
-## Product Catalog(Telegram Bot Python for Groups)
+## Product Catalog
 
 Last updated 12/04/2025
 
