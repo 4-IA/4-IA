@@ -15,7 +15,7 @@ Description
     <td style="vertical-align: top; width: 0; padding: 0;">
       <img src="user.jpg" style="width: 120px; height: auto; display: block;">
     </td>
-    <td style="vertical-align: top; padding-left: 15px;">
+    <td style="vertical-align: top; padding-left: 15px; width: 100%;">
       <h3 style="margin-top: 0;">user telegram python bot $100</h3>
       <p>Description</p>
     </td>
