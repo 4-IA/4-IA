@@ -51,7 +51,7 @@ Use an artificial intelligence assistant directly in your Telegram group to inte
     </td>
   </tr>
 </table>
-Create NFTs and distribute them to your Telegram users, without needing any knowledge of smart contracts
+Create NFTs and distribute them to your Telegram group users, without needing any knowledge of smart contracts
 
 ---
 
