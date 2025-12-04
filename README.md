@@ -128,7 +128,7 @@ Description
       <img src="airdrop.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Title</h3>
+      <h3 style="margin-top: 0;">aidrop telegram python bot $250</h3>
       <p>Description</p>
     </td>
   </tr>
@@ -142,7 +142,7 @@ Description
       <img src="tip.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Title</h3>
+      <h3 style="margin-top: 0;">tip telegram python bot $500</h3>
       <p>Description</p>
     </td>
   </tr>
@@ -156,7 +156,7 @@ Description
       <img src="dao.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Title</h3>
+      <h3 style="margin-top: 0;">dao telegram python bot $500</h3>
       <p>Description</p>
     </td>
   </tr>
@@ -170,7 +170,7 @@ Description
       <img src="gateway.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Title</h3>
+      <h3 style="margin-top: 0;">exchange telegram python bot $200</h3>
       <p>Description</p>
     </td>
   </tr>
@@ -184,7 +184,35 @@ Description
       <img src="swap.jpg" style="width: 120px; height: auto; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Title</h3>
+      <h3 style="margin-top: 0;">gateway telegram python bot $800</h3>
+      <p>Description</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="amm.jpg" style="width: 120px; height: auto; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">swap telegram python bot $900</h3>
+      <p>Description</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="amm.jpg" style="width: 120px; height: auto; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">amm telegram python bot $1000</h3>
       <p>Description</p>
     </td>
   </tr>
