@@ -1,6 +1,6 @@
 # Blockchain 4 IA
 
-Description
+Building the future
 
 ---
 
