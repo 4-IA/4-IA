@@ -21,7 +21,7 @@ Last updated 12/04/2025
     </td>
   </tr>
 </table>
-
+Download the list of public users from any Telegram group
 ---
 
 <table style="width: 100%; border-collapse: collapse;">
