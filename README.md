@@ -12,7 +12,7 @@ Description
 
 ### user — $100
 Descrição da imagem 1.  
-![Imagem 1](user.jpg)
+<img src="user.jpg" width="25%">
 
 ---
 
