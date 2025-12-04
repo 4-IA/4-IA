@@ -36,6 +36,7 @@ Download the list of public users from any Telegram group
     </td>
   </tr>
 </table>
+Use an artificial intelligence assistant directly in your Telegram group to interact with users
 
 ---
 
@@ -50,6 +51,7 @@ Download the list of public users from any Telegram group
     </td>
   </tr>
 </table>
+Create NFTs and distribute them to your Telegram users, without needing any knowledge of smart contracts
 
 ---
 
@@ -64,6 +66,7 @@ Download the list of public users from any Telegram group
     </td>
   </tr>
 </table>
+Offer products and receive payments in WAVES automatically from users in your Telegram group
 
 ---
 
@@ -78,6 +81,7 @@ Download the list of public users from any Telegram group
     </td>
   </tr>
 </table>
+Find out how your tokens are distributed among users directly in your Telegram group, everyone can see
 
 ---
 
@@ -92,6 +96,7 @@ Download the list of public users from any Telegram group
     </td>
   </tr>
 </table>
+See the top 5 open buy/sell orders for your token directly in your Telegram group, everyone can see
 
 ---
 
@@ -106,6 +111,7 @@ Download the list of public users from any Telegram group
     </td>
   </tr>
 </table>
+View all your token transfers in real time in your Telegram group, everyone can see
 
 ---
 
@@ -120,6 +126,7 @@ Download the list of public users from any Telegram group
     </td>
   </tr>
 </table>
+View all your token exchange in real time in your Telegram group, everyone can see
 
 ---
 
@@ -134,6 +141,7 @@ Download the list of public users from any Telegram group
     </td>
   </tr>
 </table>
+Distribute your token to the users in your Telegram group daily
 
 ---
 
@@ -148,6 +156,7 @@ Download the list of public users from any Telegram group
     </td>
   </tr>
 </table>
+Allow users in your Telegram group to donate tokens to each other
 
 ---
 
@@ -162,6 +171,7 @@ Download the list of public users from any Telegram group
     </td>
   </tr>
 </table>
+Create polls in your Telegram group and allow users to vote by paying with their token for each vote
 
 ---
 
@@ -176,6 +186,7 @@ Download the list of public users from any Telegram group
     </td>
   </tr>
 </table>
+Allow users in your Telegram group to trade the same asset on different WAVES forks
 
 ---
 
@@ -190,6 +201,7 @@ Download the list of public users from any Telegram group
     </td>
   </tr>
 </table>
+Allow users in your Telegram group to trade tokens from all WAVES forks
 
 ---
 
@@ -204,3 +216,4 @@ Download the list of public users from any Telegram group
     </td>
   </tr>
 </table>
+Allow users in your Telegram group to add their own token to the AMM
