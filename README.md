@@ -30,7 +30,7 @@ Last updated 12/04/2025
       <img src="ia.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">ia telegram python bot $75</h3>
+      <h3 style="margin-top: 0;">ia telegram bot $75</h3>
       <p>Use artificial intelligence</p>
     </td>
   </tr>
