@@ -41,7 +41,7 @@ Last updated 12/04/2025
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="ia.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="nft.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">nft telegram python bot $100</h3>
