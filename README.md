@@ -44,6 +44,26 @@ Last updated 12/04/2025
 
 ---
 
+<table style="width: 100%; border-collapse: collapse; height: 250px; background-color: #f8f9fa; border: 1px solid #dee2e6;">
+  <tr style="height: 100%;">
+    <td style="vertical-align: middle; width: 136px; padding: 20px 0; text-align: center; height: 100%;">
+      <div style="height: 100%; display: flex; align-items: center; justify-content: center;">
+        <img src="ia.jpg" style="width: 136px; height: 122px; object-fit: contain;">
+      </div>
+    </td>
+    <td style="vertical-align: middle; padding: 20px; height: 100%;">
+      <div style="height: 100%; display: flex; flex-direction: column; justify-content: center;">
+        <h3 style="margin: 0 0 10px 0; color: #333;">ia telegram python bot $75</h3>
+        <p style="margin: 0; color: #666; line-height: 1.5;">
+          Use an artificial intelligence assistant directly in your Telegram group to interact with users
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
 <table style="width: 100%; border-collapse: collapse; height:150px;">
   <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
