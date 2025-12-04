@@ -10,17 +10,9 @@ Description
 
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
-
-  <img src="user.jpg" width="25%" style="border-radius: 8px;">
-
-  <div>
-    <h3>Título da Imagem 1</h3>
-    <p>Descrição da imagem 1. Texto de exemplo.</p>
-  </div>
-
-</div>
-
+| <img src="user.jpg" width="25%"> | **Título da Imagem 1**  
+Descrição da imagem 1. |
+|---|---|
 
 ---
 
