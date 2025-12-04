@@ -10,7 +10,7 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; height:250px;">
+<table style="width: 100%; border-collapse: collapse; height:150px;">
   <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="user.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
@@ -24,7 +24,7 @@ Last updated 12/04/2025
 
 ---
 
-<table style="width: 100%; border-collapse: collapse; height:250px;">
+<table style="width: 100%; border-collapse: collapse; height:150px;">
   <tr style="height:150px;">
     <td style="vertical-align: top; width: 136px; padding: 0; text-align: center;">
       <img src="ia.jpg" style="width: 136px; height: 122px; display: block; margin: 0 auto;">
