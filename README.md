@@ -76,7 +76,7 @@ Offer products and receive payments in WAVES automatically from users in your Te
       <img src="distribution.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">distribution $150</h3>
+      <h3 style="margin-top: 0;">distribution $</h3>
       <p>See distributions</p>
     </td>
   </tr>
@@ -151,7 +151,7 @@ Distribute your token to the users in your Telegram group daily
       <img src="tip.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">tip $275</h3>
+      <h3 style="margin-top: 0;">tip $</h3>
       <p>Donate tokens</p>
     </td>
   </tr>
