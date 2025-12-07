@@ -217,3 +217,108 @@ Allow users in your Telegram group to trade tokens from all WAVES forks
   </tr>
 </table>
 Allow users in your Telegram group to add their own token to the AMM
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="amm.jpg" style="width: 136px; height: 122px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">amm $</h3>
+      <p>AMM tokens</p>
+    </td>
+  </tr>
+</table>
+Allow users in your Telegram group to add their own token to the AMM
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="amm.jpg" style="width: 136px; height: 122px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">amm $</h3>
+      <p>AMM tokens</p>
+    </td>
+  </tr>
+</table>
+Allow users in your Telegram group to add their own token to the AMM
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="amm.jpg" style="width: 136px; height: 122px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">amm $</h3>
+      <p>AMM tokens</p>
+    </td>
+  </tr>
+</table>
+Allow users in your Telegram group to add their own token to the AMM
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="amm.jpg" style="width: 136px; height: 122px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">amm $</h3>
+      <p>AMM tokens</p>
+    </td>
+  </tr>
+</table>
+Allow users in your Telegram group to add their own token to the AMM
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="amm.jpg" style="width: 136px; height: 122px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">amm $</h3>
+      <p>AMM tokens</p>
+    </td>
+  </tr>
+</table>
+Allow users in your Telegram group to add their own token to the AMM
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="amm.jpg" style="width: 136px; height: 122px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">amm $</h3>
+      <p>AMM tokens</p>
+    </td>
+  </tr>
+</table>
+Allow users in your Telegram group to add their own token to the AMM
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="amm.jpg" style="width: 136px; height: 122px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">amm $</h3>
+      <p>AMM tokens</p>
+    </td>
+  </tr>
+</table>
+Allow users in your Telegram group to add their own token to the AMM
