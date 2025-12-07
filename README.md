@@ -166,7 +166,7 @@ Allow users in your Telegram group to donate tokens to each other
       <img src="vote.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">vote $</h3>
+      <h3 style="margin-top: 0;">dao $</h3>
       <p>Create polls</p>
     </td>
   </tr>
