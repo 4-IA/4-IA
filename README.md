@@ -6,17 +6,17 @@ Building the future
 
 ## Product Catalog
 
-Last updated 12/04/2025
+Last updated 12/07/2025
 
 ---
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="user.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="oracle.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">user $</h3>
+      <h3 style="margin-top: 0;">oracle $</h3>
       <p>Download users</p>
     </td>
   </tr>
@@ -28,10 +28,10 @@ Download the list of public users from any Telegram group
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="ia.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="face.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">ia $</h3>
+      <h3 style="margin-top: 0;">face $</h3>
       <p>IA chats</p>
     </td>
   </tr>
@@ -43,10 +43,10 @@ Use an artificial intelligence assistant directly in your Telegram group to inte
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="nft.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="info.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">nft $</h3>
+      <h3 style="margin-top: 0;">info $</h3>
       <p>Create NFTs</p>
     </td>
   </tr>
@@ -58,10 +58,10 @@ Create NFTs and distribute them to your Telegram group users, without needing an
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="payment.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="clock.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">payment $</h3>
+      <h3 style="margin-top: 0;">clock $</h3>
       <p>Receive payments</p>
     </td>
   </tr>
@@ -73,10 +73,10 @@ Offer products and receive payments in WAVES automatically from users in your Te
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="distribution.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="adm.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">distribution $</h3>
+      <h3 style="margin-top: 0;">adm $</h3>
       <p>See distributions</p>
     </td>
   </tr>
@@ -88,10 +88,10 @@ Find out how your tokens are distributed among users directly in your Telegram g
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="orderbook.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="translator.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">orderbook $</h3>
+      <h3 style="margin-top: 0;">translator $</h3>
       <p>See orders</p>
     </td>
   </tr>
@@ -103,10 +103,10 @@ See the top 5 open buy/sell orders for your token directly in your Telegram grou
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="transaction.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="ia.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">transaction $</h3>
+      <h3 style="margin-top: 0;">ia $</h3>
       <p>View transfers</p>
     </td>
   </tr>
@@ -118,10 +118,10 @@ View all your token transfers in real time in your Telegram group, everyone can 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="exchange.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="user.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">exchange $</h3>
+      <h3 style="margin-top: 0;">user $</h3>
       <p>View trades</p>
     </td>
   </tr>
@@ -133,10 +133,10 @@ View all your token exchange in real time in your Telegram group, everyone can s
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="airdrop.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="chess.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">airdrop $</h3>
+      <h3 style="margin-top: 0;">chess $</h3>
       <p>Distribute airdrops</p>
     </td>
   </tr>
@@ -148,10 +148,10 @@ Distribute your token to the users in your Telegram group daily
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="tip.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="link.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">tip $</h3>
+      <h3 style="margin-top: 0;">link $</h3>
       <p>Donate tokens</p>
     </td>
   </tr>
@@ -163,10 +163,10 @@ Allow users in your Telegram group to donate tokens to each other
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="vote.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="shell.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">vote $</h3>
+      <h3 style="margin-top: 0;">shell $</h3>
       <p>Create polls</p>
     </td>
   </tr>
@@ -178,10 +178,10 @@ Create polls in your Telegram group and allow users to vote by paying with their
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="gateway.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="python.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">gateway $</h3>
+      <h3 style="margin-top: 0;">python $</h3>
       <p>WAVES forks</p>
     </td>
   </tr>
@@ -193,10 +193,10 @@ Allow users in your Telegram group to trade the same asset on different WAVES fo
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="swap.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="conf.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">swap $</h3>
+      <h3 style="margin-top: 0;">conf $</h3>
       <p>Swap forks</p>
     </td>
   </tr>
@@ -208,10 +208,10 @@ Allow users in your Telegram group to trade tokens from all WAVES forks
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="amm.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="node.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">amm $</h3>
+      <h3 style="margin-top: 0;">node $</h3>
       <p>AMM tokens</p>
     </td>
   </tr>
@@ -223,10 +223,10 @@ Allow users in your Telegram group to add their own token to the AMM
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="amm.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="ride.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">amm $</h3>
+      <h3 style="margin-top: 0;">ride $</h3>
       <p>AMM tokens</p>
     </td>
   </tr>
@@ -238,10 +238,10 @@ Allow users in your Telegram group to add their own token to the AMM
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="amm.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="order.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">amm $</h3>
+      <h3 style="margin-top: 0;">order $</h3>
       <p>AMM tokens</p>
     </td>
   </tr>
