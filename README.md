@@ -216,7 +216,7 @@ Telegram Group Bot - Useful settings for waves forks, in a more generic and broa
     </td>
   </tr>
 </table>
-Telegram Group Bot - Useful configurations for wave forks, in a more complete way, with more parameters
+Telegram Group Bot - Useful configurations for waves forks, in a more complete way, with more parameters
 
 ---
 
@@ -231,7 +231,7 @@ Telegram Group Bot - Useful configurations for wave forks, in a more complete wa
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram group Bot - Several examples of useful V3 contracts
 
 ---
 
