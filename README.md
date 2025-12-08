@@ -36,7 +36,7 @@ Telegram Group Bot - Entertainment in the form of a list with 100 creative and m
     </td>
   </tr>
 </table>
-Use an artificial intelligence assistant directly in your Telegram group to interact with users
+Telegram Group Bot - Entertainment in the form of a list with 100 different and creative faces made with emojis
 
 ---
 
