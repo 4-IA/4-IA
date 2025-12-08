@@ -276,7 +276,7 @@ Telegram Group Bot - A stop-limit order triggers a limit order once the stop pri
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - Schedule exchanges at your desired price with scheduled intervals
 
 ---
 
