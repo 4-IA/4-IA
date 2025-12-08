@@ -126,7 +126,7 @@ Telegram Group Bot - Artificial intelligence conversing with group users is all 
     </td>
   </tr>
 </table>
-telegram Group Bot - Download the list of public users from any telegram group
+Telegram Group Bot - Download the list of public users from any telegram group
 
 ---
 
@@ -141,7 +141,7 @@ telegram Group Bot - Download the list of public users from any telegram group
     </td>
   </tr>
 </table>
-Distribute your token to the users in your Telegram group daily
+Telegram Group Bot - For those who enjoy playing, the group can also watch the matches
 
 ---
 
