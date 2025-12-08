@@ -118,21 +118,6 @@ View all your token transfers in real time in your Telegram group, everyone can 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="user.jpg" style="width: 136px; height: 122px; display: block;">
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">user $</h3>
-      <p>View trades</p>
-    </td>
-  </tr>
-</table>
-View all your token exchange in real time in your Telegram group, everyone can see
-
----
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; width: 0; padding: 0;">
       <img src="chess.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
@@ -142,6 +127,21 @@ View all your token exchange in real time in your Telegram group, everyone can s
   </tr>
 </table>
 Distribute your token to the users in your Telegram group daily
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="user.jpg" style="width: 136px; height: 122px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">user $</h3>
+      <p>View trades</p>
+    </td>
+  </tr>
+</table>
+View all your token exchange in real time in your Telegram group, everyone can see
 
 ---
 
