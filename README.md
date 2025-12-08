@@ -16,8 +16,8 @@ Last updated 12/07/2025
       <img src="oracle.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">oracle $</h3>
-      <p>Download users</p>
+      <h3 style="margin-top: 0;">Oracle</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -31,8 +31,8 @@ Download the list of public users from any Telegram group
       <img src="face.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">face $</h3>
-      <p>IA chats</p>
+      <h3 style="margin-top: 0;">Face</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -46,8 +46,8 @@ Use an artificial intelligence assistant directly in your Telegram group to inte
       <img src="info.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">info $</h3>
-      <p>Create NFTs</p>
+      <h3 style="margin-top: 0;">Info</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -61,8 +61,8 @@ Create NFTs and distribute them to your Telegram group users, without needing an
       <img src="clock.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">clock $</h3>
-      <p>Receive payments</p>
+      <h3 style="margin-top: 0;">Clock</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -76,8 +76,8 @@ Offer products and receive payments in WAVES automatically from users in your Te
       <img src="adm.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">adm $</h3>
-      <p>See distributions</p>
+      <h3 style="margin-top: 0;">ADM</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -91,8 +91,8 @@ Find out how your tokens are distributed among users directly in your Telegram g
       <img src="translator.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">translator $</h3>
-      <p>See orders</p>
+      <h3 style="margin-top: 0;">Translator</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -106,8 +106,8 @@ See the top 5 open buy/sell orders for your token directly in your Telegram grou
       <img src="ia.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">ia $</h3>
-      <p>View transfers</p>
+      <h3 style="margin-top: 0;">IA</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -121,8 +121,8 @@ View all your token transfers in real time in your Telegram group, everyone can 
       <img src="chess.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">chess $</h3>
-      <p>Distribute airdrops</p>
+      <h3 style="margin-top: 0;">Chess</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -136,8 +136,8 @@ Distribute your token to the users in your Telegram group daily
       <img src="link.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">link $</h3>
-      <p>View trades</p>
+      <h3 style="margin-top: 0;">Link</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -151,8 +151,8 @@ View all your token exchange in real time in your Telegram group, everyone can s
       <img src="shell.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">shell $</h3>
-      <p>Donate tokens</p>
+      <h3 style="margin-top: 0;">Shell</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -166,8 +166,8 @@ Allow users in your Telegram group to donate tokens to each other
       <img src="python.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">python $</h3>
-      <p>Create polls</p>
+      <h3 style="margin-top: 0;">Python</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -181,8 +181,8 @@ Create polls in your Telegram group and allow users to vote by paying with their
       <img src="conf.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">conf $</h3>
-      <p>WAVES forks</p>
+      <h3 style="margin-top: 0;">Conf</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -196,8 +196,8 @@ Allow users in your Telegram group to trade the same asset on different WAVES fo
       <img src="node.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">node $</h3>
-      <p>Swap forks</p>
+      <h3 style="margin-top: 0;">Node</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -211,8 +211,8 @@ Allow users in your Telegram group to trade tokens from all WAVES forks
       <img src="ride.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">ride $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Ride</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
@@ -226,8 +226,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="order.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">order $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Order</h3>
+      <p>$20</p>
     </td>
   </tr>
 </table>
