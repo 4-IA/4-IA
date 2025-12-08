@@ -171,7 +171,7 @@ Telegram Group Bot - A list of useful links that can be delivered on a scheduled
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to donate tokens to each other
+Telegram Group Bot - Several useful code snippets that you can use on your server or locally
 
 ---
 
