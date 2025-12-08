@@ -246,7 +246,7 @@ Telegram Group Bot - Several examples of useful V3 contracts
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - See all open orders on the decentralized exchange
 
 ---
 
