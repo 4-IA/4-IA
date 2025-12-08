@@ -351,7 +351,7 @@ Telegram Group Bot - See the exchanges of your asset happening on the blockchain
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - Create NFTs for your group's users quickly and easily, using only command messages
 
 ---
 
@@ -366,7 +366,7 @@ Allow users in your Telegram group to add their own token to the AMM
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - Allow users in your group to register a wallet to receive a daily amount of assets that you select
 
 ---
 
@@ -381,7 +381,7 @@ Allow users in your Telegram group to add their own token to the AMM
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - Allow users in your group to donate assets to each other, it's a way to bring more interactivity to your group
 
 ---
 
@@ -396,7 +396,7 @@ Allow users in your Telegram group to add their own token to the AMM
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - Perform asset arbitrage and find profits, there are many robots competing, but you can join the game
 
 ---
 
@@ -411,7 +411,7 @@ Allow users in your Telegram group to add their own token to the AMM
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - A simple and fast payment method that allows you to deliver content to the user who makes the payment
 
 ---
 
@@ -426,7 +426,7 @@ Allow users in your Telegram group to add their own token to the AMM
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - Create polls within the group, and users can vote by depositing assets; each asset represents one vote
 
 ---
 
@@ -441,7 +441,7 @@ Allow users in your Telegram group to add their own token to the AMM
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - A waves fork bridging system operated entirely by message commands
 
 ---
 
@@ -456,7 +456,7 @@ Allow users in your Telegram group to add their own token to the AMM
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - A system for exchanging all base currencies across all waveforks with publicly available nodes
 
 ---
 
@@ -471,4 +471,4 @@ Allow users in your Telegram group to add their own token to the AMM
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - Centralized pool with rate parameters that you can set
