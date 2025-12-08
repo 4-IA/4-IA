@@ -186,7 +186,7 @@ Telegram Group Bot - Several useful code snippets that you can use on your serve
     </td>
   </tr>
 </table>
-Create polls in your Telegram group and allow users to vote by paying with their token for each vote
+Telegram Group Bot - Several useful code snippets that you can use to study Python
 
 ---
 
