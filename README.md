@@ -81,7 +81,7 @@ Telegram Group Bot - A clock that can display the time in each user's country, s
     </td>
   </tr>
 </table>
-Find out how your tokens are distributed among users directly in your Telegram group, everyone can see
+Telegram Group Bot - Receive a CSV file containing all the permissions of all group administrators, a practical way to check for hidden permissions
 
 ---
 
