@@ -21,7 +21,7 @@ Last updated 12/08/2025
     </td>
   </tr>
 </table>
-Download the list of public users from any Telegram group
+Telegram Group Bot - Entertainment in the form of a list with 100 creative and motivational quotes about technology and development
 
 ---
 
