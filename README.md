@@ -201,7 +201,7 @@ Telegram Group Bot - Several useful code snippets that you can use to study Pyth
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to trade the same asset on different WAVES forks
+Telegram Group Bot - Useful settings for waves forks
 
 ---
 
