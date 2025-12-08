@@ -66,7 +66,7 @@ Telegram Group Bot - Necessary technical information regarding group identificat
     </td>
   </tr>
 </table>
-Offer products and receive payments in WAVES automatically from users in your Telegram group
+Telegram Group Bot - A clock that can display the time in each user's country, so they can know when their friends are sleeping
 
 ---
 
