@@ -156,7 +156,7 @@ Telegram Group Bot - For those who enjoy playing, the group can also watch the m
     </td>
   </tr>
 </table>
-View all your token exchange in real time in your Telegram group, everyone can see
+Telegram Group Bot - A list of useful links that can be delivered on a scheduled basis to the group, very good for guides and topics
 
 ---
 
