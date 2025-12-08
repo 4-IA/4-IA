@@ -201,7 +201,7 @@ Telegram Group Bot - Several useful code snippets that you can use to study Pyth
     </td>
   </tr>
 </table>
-Telegram Group Bot - Useful settings for waves forks
+Telegram Group Bot - Useful settings for waves forks, in a more generic and broad way
 
 ---
 
@@ -216,7 +216,7 @@ Telegram Group Bot - Useful settings for waves forks
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to trade tokens from all WAVES forks
+Telegram Group Bot - Useful configurations for wave forks, in a more complete way, with more parameters
 
 ---
 
