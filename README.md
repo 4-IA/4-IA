@@ -96,7 +96,7 @@ Telegram Group Bot - Receive a CSV file containing all the permissions of all gr
     </td>
   </tr>
 </table>
-See the top 5 open buy/sell orders for your token directly in your Telegram group, everyone can see
+Telegram Group Bot - Translate user messages, you choose the base language and the language you want to translate to
 
 ---
 
