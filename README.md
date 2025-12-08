@@ -241,8 +241,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="stop-limit.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">stop-limit $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Stop-limit</h3>
+      <p>$40</p>
     </td>
   </tr>
 </table>
@@ -256,8 +256,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="trade.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">trade $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Trade</h3>
+      <p>$80</p>
     </td>
   </tr>
 </table>
@@ -271,8 +271,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="distribution.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">distribution $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Distribution</h3>
+      <p>$160</p>
     </td>
   </tr>
 </table>
@@ -286,8 +286,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="orderbook.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">orderbook $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Orderbook</h3>
+      <p>$160</p>
     </td>
   </tr>
 </table>
@@ -301,8 +301,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="transaction.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">transaction $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Transaction</h3>
+      <p>$160</p>
     </td>
   </tr>
 </table>
@@ -316,8 +316,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="exchange.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">exchange $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Exchange</h3>
+      <p>$160</p>
     </td>
   </tr>
 </table>
@@ -331,8 +331,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="nft.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">nft $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">NFT</h3>
+      <p>$160</p>
     </td>
   </tr>
 </table>
@@ -346,8 +346,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="airdrop.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">airdrop $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Airdrop</h3>
+      <p>$</p>
     </td>
   </tr>
 </table>
