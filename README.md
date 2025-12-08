@@ -261,7 +261,7 @@ Telegram Group Bot - See all open orders on the decentralized exchange
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - A stop-limit order triggers a limit order once the stop price is reached, allowing you to control the minimum or maximum price at which the trade executes
 
 ---
 
