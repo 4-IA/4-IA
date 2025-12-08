@@ -133,10 +133,10 @@ Distribute your token to the users in your Telegram group daily
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="user.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="link.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">user $</h3>
+      <h3 style="margin-top: 0;">link $</h3>
       <p>View trades</p>
     </td>
   </tr>
@@ -148,10 +148,10 @@ View all your token exchange in real time in your Telegram group, everyone can s
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="link.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="shell.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">link $</h3>
+      <h3 style="margin-top: 0;">shell $</h3>
       <p>Donate tokens</p>
     </td>
   </tr>
@@ -163,10 +163,10 @@ Allow users in your Telegram group to donate tokens to each other
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="shell.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="python.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">shell $</h3>
+      <h3 style="margin-top: 0;">python $</h3>
       <p>Create polls</p>
     </td>
   </tr>
@@ -178,10 +178,10 @@ Create polls in your Telegram group and allow users to vote by paying with their
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="python.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="conf.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">python $</h3>
+      <h3 style="margin-top: 0;">conf $</h3>
       <p>WAVES forks</p>
     </td>
   </tr>
@@ -193,30 +193,15 @@ Allow users in your Telegram group to trade the same asset on different WAVES fo
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="conf.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="node.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">conf $</h3>
+      <h3 style="margin-top: 0;">node $</h3>
       <p>Swap forks</p>
     </td>
   </tr>
 </table>
 Allow users in your Telegram group to trade tokens from all WAVES forks
-
----
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="node.jpg" style="width: 136px; height: 122px; display: block;">
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">node $</h3>
-      <p>AMM tokens</p>
-    </td>
-  </tr>
-</table>
-Allow users in your Telegram group to add their own token to the AMM
 
 ---
 
@@ -452,6 +437,21 @@ Allow users in your Telegram group to add their own token to the AMM
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">swap $</h3>
+      <p>AMM tokens</p>
+    </td>
+  </tr>
+</table>
+Allow users in your Telegram group to add their own token to the AMM
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="swap.jpg" style="width: 136px; height: 122px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">amm $</h3>
       <p>AMM tokens</p>
     </td>
   </tr>
