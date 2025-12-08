@@ -111,7 +111,7 @@ Telegram Group Bot - Translate user messages, you choose the base language and t
     </td>
   </tr>
 </table>
-View all your token transfers in real time in your Telegram group, everyone can see
+Telegram Group Bot - Artificial intelligence conversing with group users is all they want
 
 ---
 
