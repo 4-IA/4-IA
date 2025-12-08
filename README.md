@@ -291,7 +291,7 @@ Telegram Group Bot - Schedule exchanges at your desired price with scheduled int
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - See how your assets are distributed among users wallets
 
 ---
 
@@ -306,7 +306,7 @@ Allow users in your Telegram group to add their own token to the AMM
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - See the 5 best buy and sell orders for your asset on the decentralized exchange
 
 ---
 
@@ -321,7 +321,7 @@ Allow users in your Telegram group to add their own token to the AMM
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - See your asset transfers happening on the blockchain in real time
 
 ---
 
@@ -336,7 +336,7 @@ Allow users in your Telegram group to add their own token to the AMM
     </td>
   </tr>
 </table>
-Allow users in your Telegram group to add their own token to the AMM
+Telegram Group Bot - See the exchanges of your asset happening on the blockchain in real time
 
 ---
 
