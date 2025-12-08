@@ -118,6 +118,21 @@ View all your token transfers in real time in your Telegram group, everyone can 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="user.jpg" style="width: 136px; height: 122px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">User</h3>
+      <p>$20</p>
+    </td>
+  </tr>
+</table>
+Distribute your token to the users in your Telegram group daily
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
       <img src="chess.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
@@ -347,7 +362,7 @@ Allow users in your Telegram group to add their own token to the AMM
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Airdrop</h3>
-      <p>$</p>
+      <p>$160</p>
     </td>
   </tr>
 </table>
@@ -361,8 +376,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="tip.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">tip $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Tip</h3>
+      <p>$320</p>
     </td>
   </tr>
 </table>
@@ -376,8 +391,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="arbitrage.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">arbitrage $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Arbitrage</h3>
+      <p>$320</p>
     </td>
   </tr>
 </table>
@@ -391,8 +406,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="payment.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">payment $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Payment</h3>
+      <p>$320</p>
     </td>
   </tr>
 </table>
@@ -406,8 +421,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="vote.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">vote $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Vote</h3>
+      <p>$320</p>
     </td>
   </tr>
 </table>
@@ -421,8 +436,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="gateway.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">gateway $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Gateway</h3>
+      <p>$640</p>
     </td>
   </tr>
 </table>
@@ -436,8 +451,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="swap.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">swap $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">Swap</h3>
+      <p>$1200</p>
     </td>
   </tr>
 </table>
@@ -451,23 +466,8 @@ Allow users in your Telegram group to add their own token to the AMM
       <img src="swap.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">amm $</h3>
-      <p>AMM tokens</p>
-    </td>
-  </tr>
-</table>
-Allow users in your Telegram group to add their own token to the AMM
-
----
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="amm.jpg" style="width: 136px; height: 122px; display: block;">
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">amm $</h3>
-      <p>AMM tokens</p>
+      <h3 style="margin-top: 0;">AMM</h3>
+      <p>$2400</p>
     </td>
   </tr>
 </table>
