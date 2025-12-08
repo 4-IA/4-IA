@@ -231,7 +231,7 @@ Telegram Group Bot - Useful configurations for waves forks, in a more complete w
     </td>
   </tr>
 </table>
-Telegram group Bot - Several examples of useful V3 contracts
+Telegram Group Bot - Several examples of useful V3 contracts
 
 ---
 
