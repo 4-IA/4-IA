@@ -472,3 +472,18 @@ Telegram Group Bot - A system for exchanging all base currencies across all wave
   </tr>
 </table>
 Telegram Group Bot - Centralized pool with rate parameters that you can set
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="trojan.jpg" style="width: 136px; height: 122px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Trojan</h3>
+      <p>$4800</p>
+    </td>
+  </tr>
+</table>
+Telegram Group Bot - The fastest and most advanced trading robot for waves forks
