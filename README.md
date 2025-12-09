@@ -456,7 +456,7 @@ Telegram Group Bot - A waves fork bridging system operated entirely by message c
     </td>
   </tr>
 </table>
-Telegram Group Bot - A system for exchanging all base currencies across all waveforks with publicly available nodes
+Telegram Group Bot - A system for exchanging all base currencies across all waves forks with publicly available nodes
 
 ---
 
