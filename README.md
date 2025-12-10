@@ -493,7 +493,7 @@ Telegram Group Bot - A system for exchanging all base currencies across all wave
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="swap.jpg" style="width: 136px; height: 122px; display: block;">
+      <img src="amm.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">AMM</h3>
