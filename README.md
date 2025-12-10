@@ -13,11 +13,26 @@ Last updated 12/09/2026
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="spam.jpg" style="width: 136px; height: 122px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Spam</h3>
+      <p>$25</p>
+    </td>
+  </tr>
+</table>
+Telegram Group Bot - Make memes of your friends with funny phrases, everyone will have fun
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
       <img src="oracle.jpg" style="width: 136px; height: 122px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Oracle</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -32,7 +47,7 @@ Telegram Group Bot - Entertainment in the form of a list with 100 creative and m
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Face</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -47,7 +62,7 @@ Telegram Group Bot - Entertainment in the form of a list with 100 different and 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Info</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -62,7 +77,7 @@ Telegram Group Bot - Necessary technical information regarding group identificat
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Clock</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -77,7 +92,7 @@ Telegram Group Bot - A clock that can display the time in each user's country, s
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">ADM</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -92,7 +107,7 @@ Telegram Group Bot - Receive a CSV file containing all the permissions of all gr
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Translator</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -107,7 +122,7 @@ Telegram Group Bot - Translate user messages, you choose the base language and t
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">IA</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -122,7 +137,7 @@ Telegram Group Bot - Artificial intelligence conversing with group users is all 
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">User</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -137,7 +152,7 @@ Telegram Group Bot - Download the list of public users from any telegram group
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Chess</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -152,7 +167,7 @@ Telegram Group Bot - For those who enjoy playing, the group can also watch the m
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Link</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -167,7 +182,7 @@ Telegram Group Bot - A list of useful links that can be delivered on a scheduled
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Shell</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -182,7 +197,7 @@ Telegram Group Bot - Several useful code snippets that you can use on your serve
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Python</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -197,7 +212,7 @@ Telegram Group Bot - Several useful code snippets that you can use to study Pyth
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Conf</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -212,7 +227,7 @@ Telegram Group Bot - Useful settings for waves forks, in a more generic and broa
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Node</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -227,7 +242,7 @@ Telegram Group Bot - Useful configurations for waves forks, in a more complete w
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Ride</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -242,7 +257,7 @@ Telegram Group Bot - Several examples of useful V3 contracts
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Order</h3>
-      <p>$20</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -257,7 +272,7 @@ Telegram Group Bot - See all open orders on the decentralized exchange
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Stop-limit</h3>
-      <p>$40</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -272,11 +287,26 @@ Telegram Group Bot - A stop-limit order triggers a limit order once the stop pri
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Trade</h3>
-      <p>$80</p>
+      <p>$50</p>
     </td>
   </tr>
 </table>
-Telegram Group Bot - Schedule exchanges at your desired price with scheduled intervals
+Telegram Group Bot - Basic trading robot for waves forks
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="trojan.jpg" style="width: 136px; height: 122px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Trojan</h3>
+      <p>$100</p>
+    </td>
+  </tr>
+</table>
+Telegram Group Bot - Advanced trading robot for waves forks
 
 ---
 
@@ -287,7 +317,7 @@ Telegram Group Bot - Schedule exchanges at your desired price with scheduled int
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Distribution</h3>
-      <p>$160</p>
+      <p>$200</p>
     </td>
   </tr>
 </table>
@@ -302,7 +332,7 @@ Telegram Group Bot - See how your assets are distributed among users wallets
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Orderbook</h3>
-      <p>$160</p>
+      <p>$200</p>
     </td>
   </tr>
 </table>
@@ -317,7 +347,7 @@ Telegram Group Bot - See the 5 best buy and sell orders for your asset on the de
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Transaction</h3>
-      <p>$160</p>
+      <p>$200</p>
     </td>
   </tr>
 </table>
@@ -332,7 +362,7 @@ Telegram Group Bot - See your asset transfers happening on the blockchain in rea
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Exchange</h3>
-      <p>$160</p>
+      <p>$200</p>
     </td>
   </tr>
 </table>
@@ -347,7 +377,7 @@ Telegram Group Bot - See the exchanges of your asset happening on the blockchain
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">NFT</h3>
-      <p>$160</p>
+      <p>$200</p>
     </td>
   </tr>
 </table>
@@ -362,7 +392,7 @@ Telegram Group Bot - Create NFTs for your group's users quickly and easily, usin
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Airdrop</h3>
-      <p>$160</p>
+      <p>$200</p>
     </td>
   </tr>
 </table>
@@ -377,7 +407,7 @@ Telegram Group Bot - Allow users in your group to register a wallet to receive a
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Tip</h3>
-      <p>$320</p>
+      <p>$200</p>
     </td>
   </tr>
 </table>
@@ -392,7 +422,7 @@ Telegram Group Bot - Allow users in your group to donate assets to each other, i
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Arbitrage</h3>
-      <p>$320</p>
+      <p>$200</p>
     </td>
   </tr>
 </table>
@@ -407,7 +437,7 @@ Telegram Group Bot - Perform asset arbitrage and find profits, there are many ro
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Payment</h3>
-      <p>$320</p>
+      <p>$200</p>
     </td>
   </tr>
 </table>
@@ -422,7 +452,7 @@ Telegram Group Bot - A simple and fast payment method that allows you to deliver
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Vote</h3>
-      <p>$320</p>
+      <p>$200</p>
     </td>
   </tr>
 </table>
@@ -437,7 +467,7 @@ Telegram Group Bot - Create polls within the group, and users can vote by deposi
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Gateway</h3>
-      <p>$640</p>
+      <p>$200</p>
     </td>
   </tr>
 </table>
@@ -452,7 +482,7 @@ Telegram Group Bot - A waves fork bridging system operated entirely by message c
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Swap</h3>
-      <p>$1200</p>
+      <p>$400</p>
     </td>
   </tr>
 </table>
@@ -467,23 +497,8 @@ Telegram Group Bot - A system for exchanging all base currencies across all wave
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">AMM</h3>
-      <p>$2400</p>
+      <p>$800</p>
     </td>
   </tr>
 </table>
 Telegram Group Bot - Centralized pool with rate parameters that you can set
-
----
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="trojan.jpg" style="width: 136px; height: 122px; display: block;">
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Trojan</h3>
-      <p>$4800</p>
-    </td>
-  </tr>
-</table>
-Telegram Group Bot - The fastest and most advanced trading robot for waves forks
