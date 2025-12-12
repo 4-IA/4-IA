@@ -13,7 +13,7 @@ Last updated 12/12/2025
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="spam.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="spam.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Spam</h3>
@@ -28,7 +28,7 @@ Telegram Group Bot - Make memes of your friends with funny phrases, everyone wil
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="oracle.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="oracle.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Oracle</h3>
@@ -43,7 +43,7 @@ Telegram Group Bot - Entertainment in the form of a list with 100 creative and m
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="face.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="face.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Face</h3>
@@ -58,7 +58,7 @@ Telegram Group Bot - Entertainment in the form of a list with 100 different and 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="info.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="info.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Info</h3>
@@ -73,7 +73,7 @@ Telegram Group Bot - Necessary technical information regarding group identificat
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="clock.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="clock.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Clock</h3>
@@ -88,7 +88,7 @@ Telegram Group Bot - A clock that can display the time in each user's country, s
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="adm.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="adm.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">ADM</h3>
@@ -103,7 +103,7 @@ Telegram Group Bot - Receive a CSV file containing all the permissions of all gr
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="translator.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="translator.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Translator</h3>
@@ -118,7 +118,7 @@ Telegram Group Bot - Translate user messages, you choose the base language and t
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="ia.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="ia.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">IA</h3>
@@ -133,7 +133,7 @@ Telegram Group Bot - Artificial intelligence conversing with group users is all 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="user.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="user.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">User</h3>
@@ -148,7 +148,7 @@ Telegram Group Bot - Download the list of public users from any telegram group
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="chess.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="chess.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Chess</h3>
@@ -163,7 +163,7 @@ Telegram Group Bot - For those who enjoy playing, the group can also watch the m
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="link.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="link.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Link</h3>
@@ -178,7 +178,7 @@ Telegram Group Bot - A list of useful links that can be delivered on a scheduled
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="shell.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="shell.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Shell</h3>
@@ -193,7 +193,7 @@ Telegram Group Bot - Several useful code snippets that you can use on your serve
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="python.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="python.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Python</h3>
@@ -208,7 +208,7 @@ Telegram Group Bot - Several useful code snippets that you can use to study Pyth
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="conf.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="conf.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Conf</h3>
@@ -223,7 +223,7 @@ Telegram Group Bot - Useful settings for waves forks, in a more generic and broa
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="node.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="node.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Node</h3>
@@ -238,7 +238,7 @@ Telegram Group Bot - Useful configurations for waves forks, in a more complete w
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="ride.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="ride.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Ride</h3>
@@ -253,7 +253,7 @@ Telegram Group Bot - Several examples of useful V3 contracts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="order.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="order.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Order</h3>
@@ -268,7 +268,7 @@ Telegram Group Bot - See all open orders on the decentralized exchange
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="stop-limit.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="stop-limit.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Stop-limit</h3>
@@ -283,7 +283,7 @@ Telegram Group Bot - A stop-limit order triggers a limit order once the stop pri
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="trade.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="trade.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Trade</h3>
@@ -298,7 +298,7 @@ Telegram Group Bot - Basic trading robot for waves forks
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="trojan.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="trojan.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Trojan</h3>
@@ -313,7 +313,7 @@ Telegram Group Bot - Advanced trading robot for waves forks
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="distribution.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="distribution.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Distribution</h3>
@@ -328,7 +328,7 @@ Telegram Group Bot - See how your assets are distributed among users wallets
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="orderbook.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="orderbook.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Orderbook</h3>
@@ -343,7 +343,7 @@ Telegram Group Bot - See the 5 best buy and sell orders for your asset on the de
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="transaction.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="transaction.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Transaction</h3>
@@ -358,7 +358,7 @@ Telegram Group Bot - See your asset transfers happening on the blockchain in rea
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="exchange.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="exchange.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Exchange</h3>
@@ -373,7 +373,7 @@ Telegram Group Bot - See the exchanges of your asset happening on the blockchain
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="nft.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="nft.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">NFT</h3>
@@ -388,7 +388,7 @@ Telegram Group Bot - Create NFTs for your group's users quickly and easily, usin
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="airdrop.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="airdrop.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Airdrop</h3>
@@ -403,7 +403,7 @@ Telegram Group Bot - Allow users in your group to register a wallet to receive a
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="tip.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="tip.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Tip</h3>
@@ -418,7 +418,7 @@ Telegram Group Bot - Allow users in your group to donate assets to each other, i
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="arbitrage.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="arbitrage.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Arbitrage</h3>
@@ -433,7 +433,7 @@ Telegram Group Bot - Perform asset arbitrage and find profits, there are many ro
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="payment.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="payment.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Payment</h3>
@@ -448,7 +448,7 @@ Telegram Group Bot - A simple and fast payment method that allows you to deliver
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="vote.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="vote.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Vote</h3>
@@ -463,7 +463,7 @@ Telegram Group Bot - Create polls within the group, and users can vote by deposi
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="gateway.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="gateway.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Gateway</h3>
@@ -478,7 +478,7 @@ Telegram Group Bot - A waves fork bridging system operated entirely by message c
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="swap.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="swap.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Swap</h3>
@@ -493,7 +493,7 @@ Telegram Group Bot - A system for exchanging all base currencies across all wave
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="amm.jpg" style="width: 140px; height: 140px; display: block;">
+      <img src="amm.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">AMM</h3>
