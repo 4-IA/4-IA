@@ -276,7 +276,7 @@ See all open orders on the decentralized exchange
     </td>
   </tr>
 </table>
-A stop-limit order triggers a limit order once the stop price is reached, allowing you to control the minimum or maximum price at which the trade executes
+A stop-limit order triggers a limit order once the stop price is reached
 
 ---
 
@@ -456,7 +456,7 @@ A simple and fast payment method that allows you to deliver content to the user 
     </td>
   </tr>
 </table>
-Create polls within the group, and users can vote by depositing assets; each asset represents one vote
+Create polls within the group, and users can vote by depositing assets, each asset represents one vote
 
 ---
 
