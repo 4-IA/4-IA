@@ -21,7 +21,7 @@ Last updated 12/13/2025
     </td>
   </tr>
 </table>
-Telegram Group Bot - Make memes of your friends with funny phrases, everyone will have fun
+Make memes of your friends with funny phrases, everyone will have fun
 
 ---
 
@@ -36,7 +36,7 @@ Telegram Group Bot - Make memes of your friends with funny phrases, everyone wil
     </td>
   </tr>
 </table>
-Telegram Group Bot - Entertainment in the form of a list with 100 creative and motivational quotes about technology and development
+Entertainment in the form of a list with 100 creative and motivational quotes about technology and development
 
 ---
 
@@ -51,7 +51,7 @@ Telegram Group Bot - Entertainment in the form of a list with 100 creative and m
     </td>
   </tr>
 </table>
-Telegram Group Bot - Entertainment in the form of a list with 100 different and creative faces made with emojis
+Entertainment in the form of a list with 100 different and creative faces made with emojis
 
 ---
 
@@ -66,7 +66,7 @@ Telegram Group Bot - Entertainment in the form of a list with 100 different and 
     </td>
   </tr>
 </table>
-Telegram Group Bot - Necessary technical information regarding group identification and topics
+Necessary technical information regarding group identification and topics
 
 ---
 
@@ -81,7 +81,7 @@ Telegram Group Bot - Necessary technical information regarding group identificat
     </td>
   </tr>
 </table>
-Telegram Group Bot - A clock that can display the time in each user's country, so they can know when their friends are sleeping
+A clock that can display the time in each user's country, so they can know when their friends are sleeping
 
 ---
 
@@ -96,7 +96,7 @@ Telegram Group Bot - A clock that can display the time in each user's country, s
     </td>
   </tr>
 </table>
-Telegram Group Bot - Receive a CSV file containing all the permissions of all group administrators, a practical way to check for hidden permissions
+Receive a CSV file containing all the permissions of all group administrators, a practical way to check for hidden permissions
 
 ---
 
@@ -111,7 +111,7 @@ Telegram Group Bot - Receive a CSV file containing all the permissions of all gr
     </td>
   </tr>
 </table>
-Telegram Group Bot - Translate user messages, you choose the base language and the language you want to translate to
+Translate user messages, you choose the base language and the language you want to translate to
 
 ---
 
@@ -126,7 +126,7 @@ Telegram Group Bot - Translate user messages, you choose the base language and t
     </td>
   </tr>
 </table>
-Telegram Group Bot - Artificial intelligence conversing with group users is all they want
+Artificial intelligence conversing with group users is all they want
 
 ---
 
@@ -141,7 +141,7 @@ Telegram Group Bot - Artificial intelligence conversing with group users is all 
     </td>
   </tr>
 </table>
-Telegram Group Bot - Download the list of public users from any telegram group
+Download the list of public users from any telegram group
 
 ---
 
@@ -156,7 +156,7 @@ Telegram Group Bot - Download the list of public users from any telegram group
     </td>
   </tr>
 </table>
-Telegram Group Bot - For those who enjoy playing, the group can also watch the matches
+For those who enjoy playing, the group can also watch the matches
 
 ---
 
@@ -171,7 +171,7 @@ Telegram Group Bot - For those who enjoy playing, the group can also watch the m
     </td>
   </tr>
 </table>
-Telegram Group Bot - A list of useful links that can be delivered on a scheduled basis to the group, very good for guides and topics
+A list of useful links that can be delivered on a scheduled basis to the group, very good for guides and topics
 
 ---
 
@@ -186,7 +186,7 @@ Telegram Group Bot - A list of useful links that can be delivered on a scheduled
     </td>
   </tr>
 </table>
-Telegram Group Bot - Several useful code snippets that you can use on your server or locally
+Several useful code snippets that you can use on your server or locally
 
 ---
 
@@ -201,7 +201,7 @@ Telegram Group Bot - Several useful code snippets that you can use on your serve
     </td>
   </tr>
 </table>
-Telegram Group Bot - Several useful code snippets that you can use to study Python
+Several useful code snippets that you can use to study Python
 
 ---
 
@@ -216,7 +216,7 @@ Telegram Group Bot - Several useful code snippets that you can use to study Pyth
     </td>
   </tr>
 </table>
-Telegram Group Bot - Useful settings for waves forks, in a more generic and broad way
+Useful settings for waves forks, in a more generic and broad way
 
 ---
 
@@ -231,7 +231,7 @@ Telegram Group Bot - Useful settings for waves forks, in a more generic and broa
     </td>
   </tr>
 </table>
-Telegram Group Bot - Useful configurations for waves forks, in a more complete way, with more parameters
+Useful configurations for waves forks, in a more complete way, with more parameters
 
 ---
 
@@ -246,7 +246,7 @@ Telegram Group Bot - Useful configurations for waves forks, in a more complete w
     </td>
   </tr>
 </table>
-Telegram Group Bot - Several examples of useful V3 contracts
+Several examples of useful V3 contracts
 
 ---
 
@@ -261,7 +261,7 @@ Telegram Group Bot - Several examples of useful V3 contracts
     </td>
   </tr>
 </table>
-Telegram Group Bot - See all open orders on the decentralized exchange
+See all open orders on the decentralized exchange
 
 ---
 
@@ -276,7 +276,7 @@ Telegram Group Bot - See all open orders on the decentralized exchange
     </td>
   </tr>
 </table>
-Telegram Group Bot - A stop-limit order triggers a limit order once the stop price is reached, allowing you to control the minimum or maximum price at which the trade executes
+A stop-limit order triggers a limit order once the stop price is reached, allowing you to control the minimum or maximum price at which the trade executes
 
 ---
 
@@ -291,7 +291,7 @@ Telegram Group Bot - A stop-limit order triggers a limit order once the stop pri
     </td>
   </tr>
 </table>
-Telegram Group Bot - Basic trading robot for waves forks
+Basic trading robot for waves forks
 
 ---
 
@@ -306,7 +306,7 @@ Telegram Group Bot - Basic trading robot for waves forks
     </td>
   </tr>
 </table>
-Telegram Group Bot - Advanced trading robot for waves forks
+Advanced trading robot for waves forks
 
 ---
 
@@ -321,7 +321,7 @@ Telegram Group Bot - Advanced trading robot for waves forks
     </td>
   </tr>
 </table>
-Telegram Group Bot - See how your assets are distributed among users wallets
+See how your assets are distributed among users wallets
 
 ---
 
@@ -336,7 +336,7 @@ Telegram Group Bot - See how your assets are distributed among users wallets
     </td>
   </tr>
 </table>
-Telegram Group Bot - See the 5 best buy and sell orders for your asset on the decentralized exchange
+See the 5 best buy and sell orders for your asset on the decentralized exchange
 
 ---
 
@@ -351,7 +351,7 @@ Telegram Group Bot - See the 5 best buy and sell orders for your asset on the de
     </td>
   </tr>
 </table>
-Telegram Group Bot - See your asset transfers happening on the blockchain in real time
+See your asset transfers happening on the blockchain in real time
 
 ---
 
@@ -366,7 +366,7 @@ Telegram Group Bot - See your asset transfers happening on the blockchain in rea
     </td>
   </tr>
 </table>
-Telegram Group Bot - See the exchanges of your asset happening on the blockchain in real time
+See the exchanges of your asset happening on the blockchain in real time
 
 ---
 
@@ -381,7 +381,7 @@ Telegram Group Bot - See the exchanges of your asset happening on the blockchain
     </td>
   </tr>
 </table>
-Telegram Group Bot - Create NFTs for your group's users quickly and easily, using only command messages
+Create NFTs for your group's users quickly and easily, using only command messages
 
 ---
 
@@ -396,7 +396,7 @@ Telegram Group Bot - Create NFTs for your group's users quickly and easily, usin
     </td>
   </tr>
 </table>
-Telegram Group Bot - Allow users in your group to register a wallet to receive a daily amount of assets that you select
+Allow users in your group to register a wallet to receive a daily amount of assets that you select
 
 ---
 
@@ -411,7 +411,7 @@ Telegram Group Bot - Allow users in your group to register a wallet to receive a
     </td>
   </tr>
 </table>
-Telegram Group Bot - Allow users in your group to donate assets to each other, it's a way to bring more interactivity to your group
+Allow users in your group to donate assets to each other, it's a way to bring more interactivity to your group
 
 ---
 
@@ -426,7 +426,7 @@ Telegram Group Bot - Allow users in your group to donate assets to each other, i
     </td>
   </tr>
 </table>
-Telegram Group Bot - Perform asset arbitrage and find profits, there are many robots competing, but you can join the game
+Perform asset arbitrage and find profits, there are many robots competing, but you can join the game
 
 ---
 
@@ -441,7 +441,7 @@ Telegram Group Bot - Perform asset arbitrage and find profits, there are many ro
     </td>
   </tr>
 </table>
-Telegram Group Bot - A simple and fast payment method that allows you to deliver content to the user who makes the payment
+A simple and fast payment method that allows you to deliver content to the user who makes the payment
 
 ---
 
@@ -456,7 +456,7 @@ Telegram Group Bot - A simple and fast payment method that allows you to deliver
     </td>
   </tr>
 </table>
-Telegram Group Bot - Create polls within the group, and users can vote by depositing assets; each asset represents one vote
+Create polls within the group, and users can vote by depositing assets; each asset represents one vote
 
 ---
 
@@ -471,7 +471,7 @@ Telegram Group Bot - Create polls within the group, and users can vote by deposi
     </td>
   </tr>
 </table>
-Telegram Group Bot - A waves fork bridging system operated entirely by message commands
+A waves fork bridging system operated entirely by message commands
 
 ---
 
@@ -486,7 +486,7 @@ Telegram Group Bot - A waves fork bridging system operated entirely by message c
     </td>
   </tr>
 </table>
-Telegram Group Bot - A system for exchanging all base currencies across all waves forks with publicly available nodes
+A system for exchanging all base currencies across all waves forks with publicly available nodes
 
 ---
 
@@ -501,4 +501,4 @@ Telegram Group Bot - A system for exchanging all base currencies across all wave
     </td>
   </tr>
 </table>
-Telegram Group Bot - Centralized pool with rate parameters that you can set
+Centralized pool with rate parameters that you can set
