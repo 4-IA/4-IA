@@ -1,5 +1,5 @@
 # Telegram Group Bots Catalog
-
+<img src="tek.jpg" style="width: 320px; height: 320px; display: block;">
 A curated collection of bots designed to manage, moderate, and engage Telegram groups efficiently
 
 ---
@@ -171,7 +171,6 @@ For those who enjoy playing, the group can also watch the matches
     </td>
   </tr>
 </table>
-<img src="tek.jpg" style="width: 320px; height: 320px">
 A list of useful links that can be delivered on a scheduled basis to the group, very good for guides and topics
 
 ---
