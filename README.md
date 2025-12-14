@@ -272,7 +272,7 @@ See all open orders on the decentralized exchange
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Stop-limit</h3>
-      <p>$25</p>
+      <p>$50</p>
     </td>
   </tr>
 </table>
