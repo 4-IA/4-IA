@@ -512,8 +512,8 @@ Centralized pool with rate parameters that you can set
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Data</h3>
-      <p>$</p>
+      <p>$1600</p>
     </td>
   </tr>
 </table>
-Under construction
+Virtual assistant to perform daily tasks
