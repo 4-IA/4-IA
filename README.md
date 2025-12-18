@@ -6,7 +6,7 @@ A curated collection of bots designed to manage, moderate, and engage Telegram g
 
 ## Smart Automation for Telegram Communities
 
-Last updated 12/13/2025
+Last updated 12/17/2025
 
 ---
 
@@ -272,7 +272,7 @@ See all open orders on the decentralized exchange
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Stop-limit</h3>
-      <p>$50</p>
+      <p>$25</p>
     </td>
   </tr>
 </table>
@@ -317,7 +317,7 @@ Advanced trading robot for waves forks
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Distribution</h3>
-      <p>$200</p>
+      <p>$100</p>
     </td>
   </tr>
 </table>
@@ -332,7 +332,7 @@ See how your assets are distributed among users wallets
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Orderbook</h3>
-      <p>$200</p>
+      <p>$100</p>
     </td>
   </tr>
 </table>
@@ -347,7 +347,7 @@ See the 5 best buy and sell orders for your asset on the decentralized exchange
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Transaction</h3>
-      <p>$200</p>
+      <p>$100</p>
     </td>
   </tr>
 </table>
@@ -362,7 +362,7 @@ See your asset transfers happening on the blockchain in real time
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Exchange</h3>
-      <p>$200</p>
+      <p>$100</p>
     </td>
   </tr>
 </table>
@@ -377,7 +377,7 @@ See the exchanges of your asset happening on the blockchain in real time
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">NFT</h3>
-      <p>$200</p>
+      <p>$100</p>
     </td>
   </tr>
 </table>
@@ -392,7 +392,7 @@ Create NFTs for your group's users quickly and easily, using only command messag
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Airdrop</h3>
-      <p>$200</p>
+      <p>$100</p>
     </td>
   </tr>
 </table>
@@ -482,7 +482,7 @@ A waves fork bridging system operated entirely by message commands
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Swap</h3>
-      <p>$400</p>
+      <p>$200</p>
     </td>
   </tr>
 </table>
@@ -497,7 +497,7 @@ A system for exchanging all base currencies across all waves forks with publicly
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">AMM</h3>
-      <p>$800</p>
+      <p>$400</p>
     </td>
   </tr>
 </table>
@@ -512,7 +512,7 @@ Centralized pool with rate parameters that you can set
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Data</h3>
-      <p>$1600</p>
+      <p>$800</p>
     </td>
   </tr>
 </table>
