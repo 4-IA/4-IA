@@ -1,12 +1,6 @@
-# Telegram Group Bots (Catalog)
+# Telegram Group Bot (Catalog)
 
-A curated collection of bots designed to manage, moderate, and engage Telegram groups efficiently
-
----
-
-## Smart Automation for Telegram Communities
-
-Last updated 12/18/2025
+A curated collection of bots designed to manage, moderate, and engage Telegram groups efficiently. Smart Automation for Telegram Communities. Last updated 12/18/2025
 
 ---
 
