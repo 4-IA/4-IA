@@ -277,51 +277,6 @@ See all open orders on the decentralized exchange
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="stop-limit.jpg" style="width: 150px; height: 150px; display: block;">
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Stop-limit</h3>
-      <p>$100</p>
-    </td>
-  </tr>
-</table>
-A stop-limit order triggers a limit order once the stop price is reached
-
----
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="trade.jpg" style="width: 150px; height: 150px; display: block;">
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Trade</h3>
-      <p>$100</p>
-    </td>
-  </tr>
-</table>
-Basic trading robot for waves forks
-
----
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="trojan.jpg" style="width: 150px; height: 150px; display: block;">
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Trojan</h3>
-      <p>$200</p>
-    </td>
-  </tr>
-</table>
-Advanced trading robot for waves forks
-
----
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; width: 0; padding: 0;">
       <img src="arbitrage.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
@@ -337,11 +292,56 @@ Perform asset arbitrage and find profits, there are many robots competing, but y
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="stop-limit.jpg" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Stop-limit</h3>
+      <p>$200</p>
+    </td>
+  </tr>
+</table>
+A stop-limit order triggers a limit order once the stop price is reached
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="trade.jpg" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Trade</h3>
+      <p>$200</p>
+    </td>
+  </tr>
+</table>
+Basic trading robot for waves forks
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="trojan.jpg" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Trojan</h3>
+      <p>$400</p>
+    </td>
+  </tr>
+</table>
+Advanced trading robot for waves forks
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
       <img src="distribution.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Distribution</h3>
-      <p>$200</p>
+      <p>$400</p>
     </td>
   </tr>
 </table>
@@ -356,7 +356,7 @@ See how your assets are distributed among users wallets
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Orderbook</h3>
-      <p>$200</p>
+      <p>$400</p>
     </td>
   </tr>
 </table>
@@ -371,7 +371,7 @@ See the 5 best buy and sell orders for your asset on the decentralized exchange
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Transaction</h3>
-      <p>$200</p>
+      <p>$400</p>
     </td>
   </tr>
 </table>
@@ -386,7 +386,7 @@ See your asset transfers happening on the blockchain in real time
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Exchange</h3>
-      <p>$200</p>
+      <p>$400</p>
     </td>
   </tr>
 </table>
@@ -401,7 +401,7 @@ See the exchanges of your asset happening on the blockchain in real time
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">NFT</h3>
-      <p>$200</p>
+      <p>$400</p>
     </td>
   </tr>
 </table>
@@ -412,26 +412,11 @@ Create NFTs for your group's users quickly and easily, using only command messag
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="airdrop.jpg" style="width: 150px; height: 150px; display: block;">
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Airdrop</h3>
-      <p>$200</p>
-    </td>
-  </tr>
-</table>
-Allow users in your group to register a wallet to receive a daily amount of assets that you select
-
----
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; width: 0; padding: 0;">
       <img src="payment.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Payment</h3>
-      <p>$200</p>
+      <p>$400</p>
     </td>
   </tr>
 </table>
@@ -442,11 +427,26 @@ A simple and fast payment method that allows you to deliver content to the user 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="airdrop.jpg" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Airdrop</h3>
+      <p>$400</p>
+    </td>
+  </tr>
+</table>
+Allow users in your group to register a wallet to receive a daily amount of assets that you select
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
       <img src="tip.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Tip</h3>
-      <p>$400</p>
+      <p>$800</p>
     </td>
   </tr>
 </table>
@@ -461,7 +461,7 @@ Allow users in your group to donate assets to each other, it's a way to bring mo
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Vote</h3>
-      <p>$400</p>
+      <p>$800</p>
     </td>
   </tr>
 </table>
@@ -476,7 +476,7 @@ Create polls within the group, and users can vote by depositing assets, each ass
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Gateway</h3>
-      <p>$400</p>
+      <p>$800</p>
     </td>
   </tr>
 </table>
@@ -491,7 +491,7 @@ A waves fork bridging system operated entirely by message commands
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Swap</h3>
-      <p>$800</p>
+      <p>$1600</p>
     </td>
   </tr>
 </table>
@@ -506,7 +506,7 @@ A system for exchanging all base currencies across all waves forks with publicly
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">AMM</h3>
-      <p>$1600</p>
+      <p>$3200</p>
     </td>
   </tr>
 </table>
