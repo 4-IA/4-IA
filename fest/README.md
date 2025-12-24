@@ -1,6 +1,6 @@
-# Telegram Group Bot (Catalog)
+# TTelegram Group Bot (Catalog)
 
-A curated collection of bots designed to manage, moderate, and engage telegram groups efficiently. [Test](fest/README.md) Last updated 12/22/2025
+A curated collection of bots designed to manage, moderate, and engage telegram groups efficiently. Last updated 12/22/2025
 
 ---
 
