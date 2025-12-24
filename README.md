@@ -1,6 +1,6 @@
 # Telegram Group Bot (Catalog)
 
-A curated collection of bots designed to manage, moderate, and engage telegram groups efficiently | [Free Gift](https://github.com/4-IA/Festival) | Last updated 12/24/2025
+A curated collection of bots designed to manage, moderate, and engage telegram groups efficiently | [Free Gift*](https://github.com/4-IA/Festival) | Last updated 12/24/2025
 
 ---
 
