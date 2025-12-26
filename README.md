@@ -7,7 +7,7 @@ A curated collection of bots designed to manage, moderate, and engage telegram g
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="spam.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/spam.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Spam</h3>
@@ -22,7 +22,7 @@ Make memes of your friends with funny phrases, everyone will have fun
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="oracle.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/oracle.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Oracle</h3>
@@ -37,7 +37,7 @@ Entertainment in the form of a list with 100 creative and motivational quotes ab
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="face.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/face.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Face</h3>
@@ -52,7 +52,7 @@ Entertainment in the form of a list with 100 different and creative faces made w
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="info.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/info.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Info</h3>
@@ -67,7 +67,7 @@ Necessary technical information regarding group identification and topics
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="clock.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/clock.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Clock</h3>
@@ -82,7 +82,7 @@ A clock that can display the time in each user's country, so they can know when 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="adm.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/adm.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">ADM</h3>
@@ -97,7 +97,7 @@ Receive a CSV file containing all the permissions of all group administrators, a
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="translator.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/translator.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Translator</h3>
@@ -112,7 +112,7 @@ Translate user messages, you choose the base language and the language you want 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="ia.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/ia.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">IA</h3>
@@ -127,7 +127,7 @@ Artificial intelligence conversing with group users is all they want
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="user.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/user.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">User</h3>
@@ -142,7 +142,7 @@ Download the list of public users from any telegram group
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="chess.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/chess.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Chess</h3>
@@ -157,7 +157,7 @@ For those who enjoy playing, the group can also watch the matches
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="ticker.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/ticker.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Ticker</h3>
@@ -172,7 +172,7 @@ Ticker price for coin
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="link.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/link.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Link</h3>
@@ -187,7 +187,7 @@ A list of useful links that can be delivered on a scheduled basis to the group, 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="shell.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/shell.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Shell</h3>
@@ -202,7 +202,7 @@ Several useful code snippets that you can use on your server or locally
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="python.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/python.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Python</h3>
@@ -217,7 +217,7 @@ Several useful code snippets that you can use to study Python
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="conf.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/conf.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Conf</h3>
@@ -232,7 +232,7 @@ Useful settings for waves forks, in a more generic and broad way
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="node.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/node.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Node</h3>
@@ -247,7 +247,7 @@ Useful configurations for waves forks, in a more complete way, with more paramet
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="ride.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/ride.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Ride</h3>
@@ -262,7 +262,7 @@ Several examples of useful V3 contracts
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="order.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/order.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Order</h3>
@@ -277,7 +277,7 @@ See all open orders on the decentralized exchange
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="arbitrage.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/arbitrage.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Arbitrage</h3>
@@ -292,7 +292,7 @@ Perform asset arbitrage and find profits, there are many robots competing, but y
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="stop-limit.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/stop-limit.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Stop-limit</h3>
@@ -307,7 +307,7 @@ A stop-limit order triggers a limit order once the stop price is reached
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="trade.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/trade.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Trade</h3>
@@ -322,7 +322,7 @@ Basic trading robot for waves forks
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="trojan.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/trojan.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Trojan</h3>
@@ -337,7 +337,7 @@ Advanced trading robot for waves forks
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="distribution.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/distribution.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Distribution</h3>
@@ -352,7 +352,7 @@ See how your assets are distributed among users wallets
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="orderbook.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/orderbook.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Orderbook</h3>
@@ -367,7 +367,7 @@ See the 5 best buy and sell orders for your asset on the decentralized exchange
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="transaction.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/transaction.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Transaction</h3>
@@ -382,7 +382,7 @@ See your asset transfers happening on the blockchain in real time
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="exchange.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/exchange.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Exchange</h3>
@@ -397,7 +397,7 @@ See the exchanges of your asset happening on the blockchain in real time
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="nft.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/nft.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">NFT</h3>
@@ -412,7 +412,7 @@ Create NFTs for your group's users quickly and easily, using only command messag
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="payment.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/payment.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Payment</h3>
@@ -427,7 +427,7 @@ A simple and fast payment method that allows you to deliver content to the user 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="airdrop.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/airdrop.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Airdrop</h3>
@@ -442,7 +442,7 @@ Allow users in your group to register a wallet to receive a daily amount of asse
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="tip.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/tip.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Tip</h3>
@@ -457,7 +457,7 @@ Allow users in your group to donate assets to each other, it's a way to bring mo
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="vote.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/vote.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Vote</h3>
@@ -472,7 +472,7 @@ Create polls within the group, and users can vote by depositing assets, each ass
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="gateway.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/gateway.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Gateway</h3>
@@ -487,7 +487,7 @@ A waves fork bridging system operated entirely by message commands
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="swap.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/swap.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Swap</h3>
@@ -502,7 +502,7 @@ A system for exchanging all base currencies across all waves forks with publicly
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="amm.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/amm.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">AMM</h3>
@@ -517,7 +517,7 @@ Centralized pool with rate parameters that you can set
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="data.jpg" style="width: 150px; height: 150px; display: block;">
+      <img src="image/data.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Data</h3>
